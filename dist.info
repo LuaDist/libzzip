@@ -1,0 +1,14 @@
+--- This file is part of LuaDist project
+
+name = "libzzip"
+version = "0.13.58"
+
+desc = "The zziplib provides read access to zipped files in a zip-archive."
+author = "Tomi Ollila, Guido Draheim"
+license = "LGPL/Mozilla Public"
+url = "http://zziplib.sf.net"
+maintainer = "Peter Kapec"
+
+depends = {
+	"zlib >=1.2"
+}
